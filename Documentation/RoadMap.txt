@@ -1,0 +1,26 @@
+Procedure - Sequence:
+
+Codes:
+BWR_Tests.ecl
+Demo00.ecl
+Demo01.ecl
+Demo02.ecl
+Demo03.ecl
+Demo04.ecl
+Demo05.ecl
+modInline01.ecl
+modInline02.ecl
+modPersons.ecl
+Demo06.ecl
+Demo07.ecl
+UID_Persons.ecl
+STD_Persons.ecl
+IDX_Persons.ecl
+BWR_BuildIndexes.ecl
+Fetch_Persons.ecl (compiler hthor and roxie)
+BWR_TestQueries.ecl
+
+ETL - CSV Tests:
+BWR_Persons_CSV
+Persons.ecl
+BWR_DP_Persons.ecl

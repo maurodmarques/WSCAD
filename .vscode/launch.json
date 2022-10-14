@@ -14,14 +14,13 @@
             "timeoutSecs": 60,
             "user": "maurodm",
             "password": ""
-
         },
         {
             "name": "TrainingCluster",
             "type": "ecl",
             "request": "launch",
             "protocol": "http",
-            "serverAddress": "54.215.2.79",
+            "serverAddress": "99.79.105.40",
             "port": 8010,
             "targetCluster": "thor",
             "rejectUnauthorized": true,
